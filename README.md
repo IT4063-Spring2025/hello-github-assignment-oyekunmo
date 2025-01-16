@@ -25,7 +25,10 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . How to use GIT commands like commit and push
+- . The difference between locally and remotely changing repositories 
+- . How to clone a repository 
+- . How to make files in a cloned repository 
 
 **I struggled with:** (repeat as needed)
 - .
