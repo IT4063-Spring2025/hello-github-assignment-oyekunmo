@@ -38,7 +38,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 **I need the instructor to help me with:** (repeat as needed)
 - . Configuring my username and email for GIT so that I could sync the changes made to each file
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
