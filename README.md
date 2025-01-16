@@ -31,7 +31,9 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 - . How to make files in a cloned repository 
 
 **I struggled with:** (repeat as needed)
-- .
+- . Configuring my username and email for GIT
+- . Figuring out how to commit my changes to each file
+- . The initial process of cloning the repository 
 
 **I need the instructor to help me with:** (repeat as needed)
 - .
