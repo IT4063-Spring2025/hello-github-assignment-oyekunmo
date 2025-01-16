@@ -46,7 +46,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 - . N/A
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- . Adib Zaman (instructor)
 
 ---
 ## Copyrights and License
