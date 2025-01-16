@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0Doy1t_w)
 # Hello, GitHub!
 
 ## 🔍 Overview
@@ -24,23 +25,28 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . How to use GIT commands like commit and push
+- . The difference between locally and remotely changing repositories 
+- . How to clone a repository 
+- . How to make files in a cloned repository 
 
 **I struggled with:** (repeat as needed)
-- .
+- . Configuring my username and email for GIT
+- . Figuring out how to commit my changes to each file
+- . The initial process of cloning the repository 
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . Configuring my username and email for GIT so that I could sync the changes made to each file
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- . N/A
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- . Adib Zaman (instructor)
 
 ---
 ## Copyrights and License
